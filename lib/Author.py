@@ -1,4 +1,4 @@
-from lib.Article import Article
+from Article import Article
 
 class Author:
     def __init__(self, name):

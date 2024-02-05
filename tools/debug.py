@@ -5,9 +5,9 @@ sys.path.append('lib')
 
 import ipdb;
 
-from lib.Article import Article
-from lib.Author import Author
-from lib.Magazine import Magazine
+from Article import Article
+from Author import Author
+from Magazine import Magazine
 
 
 if __name__ == '__main__':
